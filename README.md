@@ -1,6 +1,6 @@
 # Jogo da Memoria
 
-Esta proejto foi feito em aula do curso[B7WEB](http://b7web.com.br)
+Esta projeto foi feito em aula do curso[B7WEB](http://b7web.com.br)
 
 ## Available Scripts
 
