@@ -1,4 +1,4 @@
-# Jogo da Memoria
+# Jogo da Memória
 
 Esta projeto foi feito em aula do curso [B7WEB](http://b7web.com.br).
 
